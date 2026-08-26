@@ -268,7 +268,7 @@ cat("\nOriginal b:\n")
 print(b)
 
 
-## --- 8. Perpendicular vector to a given 2D vector --------------
+##  8. Perpendicular vector to a given 2D vector 
 
 # Finding a vector perpendicular to a given 2D vector
 
@@ -578,7 +578,7 @@ for (r in seq_len(rows)) {
 cat("Rank =", nonzero_rows, "\n")
 
 
-## --- 13. Eigenvalues and eigenvectors --------------------------------
+##  13. Eigenvalues and eigenvectors 
 
 # Eigenvalues and eigenvectors
 
